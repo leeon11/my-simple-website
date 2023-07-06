@@ -1,6 +1,8 @@
 .blog{
 
 color: aqua;
+/* margin-bottom: 10px; */
+
 
 
 }
@@ -9,6 +11,6 @@ div{
 
     background-color: blueviolet;
 padding: 10px;
-
+margin bottom: 100px;
 
 }
